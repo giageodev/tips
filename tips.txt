@@ -1,0 +1,4 @@
+check what font is used as Monospace -> fc-match Monospace
+firefox profile is gone -> copy ./mozilla from the flatpak sandbox or switch back
+change cursor in gnome -> download gnome tweaks
+cursor is not the same in all apps ->  flatpaks need to access the .icons
